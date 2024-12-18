@@ -1,3 +1,3 @@
-These apps were written by Pat Barry and posted on NMFS posit connect by Matt Callahan. 
+These apps were written by Pat Barry. 
 
 Start here https://connect.fisheries.noaa.gov/AFSC_SalmonBycatchGenetics/
