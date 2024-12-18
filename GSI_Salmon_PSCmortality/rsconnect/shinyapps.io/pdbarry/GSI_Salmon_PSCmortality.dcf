@@ -1,0 +1,11 @@
+name: GSI_Salmon_PSCmortality
+title: GSI_Salmon_PSCmortality
+username:
+account: pdbarry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5480432
+bundleId: 7610262
+url: https://pdbarry.shinyapps.io/GSI_Salmon_PSCmortality/
+asMultiple: FALSE
+asStatic: FALSE

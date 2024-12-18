@@ -1,0 +1,14 @@
+name: GSI_Salmon_PSCMaps
+title: GSI_Salmon_PSCMaps
+username:
+account: pdbarry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5479988
+bundleId: 6655709
+url: https://pdbarry.shinyapps.io/GSI_Salmon_PSCMaps/
+when: 1671495523.92748
+lastSyncTime: 1671495523.92751
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/chum_all_years_gsi_summary.csv|Data/chum_all_years_gsi_summaryNew.csv

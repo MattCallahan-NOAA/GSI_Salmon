@@ -1,0 +1,12 @@
+name: GSI_Salmon_Comparisons
+title: GSI_Salmon_Comparisons
+username:
+account: pdbarry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2219368
+bundleId: 4939122
+url: https://pdbarry.shinyapps.io/gsi_salmon_comparisons/
+when: 1629328659.00899
+asMultiple: FALSE
+asStatic: FALSE

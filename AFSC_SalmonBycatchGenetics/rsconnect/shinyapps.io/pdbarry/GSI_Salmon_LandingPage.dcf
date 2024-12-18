@@ -1,0 +1,13 @@
+name: GSI_Salmon_LandingPage
+title: GSI_Salmon_LandingPage
+username:
+account: pdbarry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5480149
+bundleId: 5497989
+url: https://pdbarry.shinyapps.io/GSI_Salmon_LandingPage/
+when: 1642915748.77583
+lastSyncTime: 1642915748.77584
+asMultiple: FALSE
+asStatic: FALSE
