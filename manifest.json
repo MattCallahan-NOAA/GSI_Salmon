@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.0",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "AFSC_SalmonBycatchGenetics/google-analytics.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "AFSC_SalmonBycatchGenetics/._app.R": {
+      "checksum": "d245f55fb09e3671ce2a0bcbd201b283"
+    },
+    "AFSC_SalmonBycatchGenetics/app.R": {
+      "checksum": "7c562025b6438aa09396fc8d108d078b"
+    },
+    "AFSC_SalmonBycatchGenetics/google-analytics.html": {
+      "checksum": "8f24277b832d1e36bdd835785766ecb9"
+    },
+    "AFSC_SalmonBycatchGenetics/www/AFSC_Genetics.png": {
+      "checksum": "45e4bfa8da38cde28255785c44a4a69e"
+    },
+    "AFSC_SalmonBycatchGenetics/www/BargraphIcon.png": {
+      "checksum": "0a6051a73e31c8cf257c6d077f6e47e2"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ChinookBaseline.jpg": {
+      "checksum": "d0932630aae41dc716e2ff7f3481bc44"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ChinookRepGrps.png": {
+      "checksum": "4f6c08593175d832939deae8a85275f7"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ChinookRepGrps_small.png": {
+      "checksum": "5d27b910541031add8b36a701453c9f8"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ChumRepGrps.png": {
+      "checksum": "fd83cfe37a8e84d96b145ac26816045a"
+    },
+    "AFSC_SalmonBycatchGenetics/www/LinegraphIcon.png": {
+      "checksum": "426f57d8980d416eff61a32d8999d61c"
+    },
+    "AFSC_SalmonBycatchGenetics/www/Map_Icon.png": {
+      "checksum": "340303af062717102193384efd742fee"
+    },
+    "AFSC_SalmonBycatchGenetics/www/NOAA_logo.png": {
+      "checksum": "498f2d2335a4b84dd615e0f1ec8d50db"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ShinyChinookMap.png": {
+      "checksum": "55cac6c3b58578dcf99adaf4fa99b7dc"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ShinyChinookMap_small.png": {
+      "checksum": "5450468fe38f8929d5001b438079f42a"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ShinyMap_bycatch_clusters_2021WithScale.png": {
+      "checksum": "11475d6a3108c52b29d3a427e0d2e14a"
+    },
+    "AFSC_SalmonBycatchGenetics/www/ShinyMap_bycatch_clusters_2021WithScale_small.png": {
+      "checksum": "a7c4798d7c38878bd1d97887fbdb9c94"
+    },
+    "GSI_Salmon_Comparisons/._app.R": {
+      "checksum": "55752c38eb6f87e85da7d40dcc2ba622"
+    },
+    "GSI_Salmon_Comparisons/app.R": {
+      "checksum": "3cf455afa13aa5e23ff396c8c2304f87"
+    },
+    "GSI_Salmon_Comparisons/Data/._chum_all_years_gsi_summaryNew.csv": {
+      "checksum": "fb337485093429ea6131cfed92367cce"
+    },
+    "GSI_Salmon_Comparisons/Data/chum_all_years_gsi_summary.csv": {
+      "checksum": "2b2dc6fa6d1de32eb7d4f9bfa3ec3fb5"
+    },
+    "GSI_Salmon_Comparisons/Data/chum_all_years_gsi_summary_old.csv": {
+      "checksum": "2b2dc6fa6d1de32eb7d4f9bfa3ec3fb5"
+    },
+    "GSI_Salmon_Comparisons/Data/chum_all_years_gsi_summaryNew.csv": {
+      "checksum": "702c12fb37b848adac18753da466a166"
+    },
+    "GSI_Salmon_Comparisons/google-analytics.html": {
+      "checksum": "1153ed546d4affd8ea1a5c069bfe5386"
+    },
+    "GSI_Salmon_PSCMaps/._app.R": {
+      "checksum": "3801451f34f9917167e3e9d6d4a17aba"
+    },
+    "GSI_Salmon_PSCMaps/app.R": {
+      "checksum": "12eaabcf4fe0298f0ef7c1a0232d5eea"
+    },
+    "GSI_Salmon_PSCMaps/Data/chum_all_years_gsi_summary.csv": {
+      "checksum": "2b2dc6fa6d1de32eb7d4f9bfa3ec3fb5"
+    },
+    "GSI_Salmon_PSCMaps/Data/chum_all_years_gsi_summaryNew.csv": {
+      "checksum": "72b0de5b94fc4d92bce261cb3ed3c901"
+    },
+    "GSI_Salmon_PSCMaps/google-analytics.html": {
+      "checksum": "20402e10393420f5119c5bee47b12096"
+    },
+    "GSI_Salmon_PSCMaps/www/._Chinook_Map_bycatch_clusters_2020WithScale.png": {
+      "checksum": "3db83a7201b90fe0003599583770f549"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2011WithScale.png": {
+      "checksum": "204de511ff401b418914cf0957c3d71c"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2012WithScale.png": {
+      "checksum": "5329583e95c232d062a1badcfe8d7282"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2013WithScale.png": {
+      "checksum": "ec786f6dd48703e0a83fc966894a0853"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2014WithScale.png": {
+      "checksum": "07b62c89f1ff8e8678577a974e1a02c5"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2015WithScale.png": {
+      "checksum": "685108401fd680cb751020de2ce56f61"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2016WithScale.png": {
+      "checksum": "d31f988197d2e8363ea425868bedc3c9"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2017WithScale.png": {
+      "checksum": "f54e4be4a1cfa5faf75e31ee3d2011b6"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2018WithScale.png": {
+      "checksum": "25c7bc22ee995c8e2b08121bcca802cb"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2019WithScale.png": {
+      "checksum": "9228b198456f81d4d6926504cd3244d2"
+    },
+    "GSI_Salmon_PSCMaps/www/Chinook_Map_bycatch_clusters_2020WithScale.png": {
+      "checksum": "21d869523d864ae004df899c819015aa"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2011WithScale.png": {
+      "checksum": "45ddaa471dcc25116760e45674141d88"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2012WithScale.png": {
+      "checksum": "3906f0f7d925fcdd86770e1dbba0c994"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2013WithScale.png": {
+      "checksum": "82d0cb963932570dcd3d643e22488204"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2014WithScale.png": {
+      "checksum": "e1de9e45970ea77c7ce879f4c0e8ddf7"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2015WithScale.png": {
+      "checksum": "b9f998910fc770546b91f82601b5784d"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2016WithScale.png": {
+      "checksum": "01fdc9a8478c63a5213488aecb42d5d9"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2017WithScale.png": {
+      "checksum": "a634869852ad01b0f6fc54223d2cf671"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2018WithScale.png": {
+      "checksum": "664584d508a7370040f8b83c04e9fe7d"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2019WithScale.png": {
+      "checksum": "a7f1db187b22435da8a4f889a96c4764"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2020WithScale.png": {
+      "checksum": "08f4c7451df5831dff0e510739ad7227"
+    },
+    "GSI_Salmon_PSCMaps/www/Chum_Map_bycatch_clusters_2021WithScale.png": {
+      "checksum": "93203c8066085dbe152be9631712f8d7"
+    },
+    "GSI_Salmon_PSCmortality/._app.R": {
+      "checksum": "7ef44c22a230966f6f156c8515787902"
+    },
+    "GSI_Salmon_PSCmortality/app.R": {
+      "checksum": "5d152f78e3e4bf2d448bec0fbff28154"
+    },
+    "GSI_Salmon_PSCmortality/google-analytics.html": {
+      "checksum": "e8fcd213d81902e9d7f14f8bae270366"
+    }
+  },
+  "users": null
+}
