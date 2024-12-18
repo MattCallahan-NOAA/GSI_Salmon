@@ -199,15 +199,15 @@ navbarPage(title=div(img(src="NOAA_logo.png"), "AFSC Salmon Bycatch"),
                     fluidRow(
                       column(4, thumbnail_label(image = 'Map_Icon.png', label = 'Application 1: Spatial distribution of the salmon bycatch.',
                                                 content = 'Explore spatial distribution of salmon PSC by year.',
-                                                button_link = 'https://shinyfin.psmfc.org/GSI_Salmon_PSCMaps/', button_label = 'Click me')
+                                                button_link = 'https://connect.fisheries.noaa.gov/GSI_Salmon_PSCMaps/', button_label = 'Click me')
                       ),
                       column(4, thumbnail_label(image = 'BargraphIcon.png', label = 'Application 2: Genetic stock composition estimates by reporting group.',
                                                 content = 'Explore the genetic results by spatiotemporal analysis.',
                                                # button_link = 'https://shinyfin.psmfc.org/GSI_Salmon_MixedStockComparisons/', button_label = 'Click me')),
-                                               button_link = 'https://shinyfin.psmfc.org/GSI_Salmon_Comparisons/', button_label = 'Click me')),
+                                               button_link = 'https://connect.fisheries.noaa.gov/GSI_Salmon_Comparisons/', button_label = 'Click me')),
                       column(4, thumbnail_label(image = 'LinegraphIcon.png', label = 'Application 3: Yearly Salmon Mortality Estimates',
                                                 content = 'Explore the estimates of PSC mortality by fishery and species.',
-                                                button_link = 'https://shinyfin.psmfc.org/GSI_Salmon_PSCmortality/', button_label = 'Click me'))
+                                                button_link = 'https://connect.fisheries.noaa.gov/GSI_Salmon_PSCmortality/', button_label = 'Click me'))
                     )))
 
 ) # end of fluid page
